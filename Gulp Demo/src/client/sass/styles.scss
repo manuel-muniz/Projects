@@ -1,0 +1,15 @@
+$sassColor: #C6538C;
+
+body {
+    padding-top: 30px;
+}
+
+.container {
+    p {
+        color: $sassColor;
+        font-size: 18px;
+    }
+    span {
+        color: limegreen;
+    }
+}
